@@ -3,7 +3,7 @@ Coz Hive and Hadoop can't fly but can predict flight delays
 ------------------------------------------------------------
 
 WorkFlow
-![](https://raw.githubusercontent.com/username/projectname/branch/path/to/workflow.png)
+![refs](https://raw.githubusercontent.com/username/projectname/branch/path/to/workflow.png)
 
 
 --------------------------------------------------------------------------------------------
@@ -21,6 +21,7 @@ For Querying and Extracting needful data
 -----------------------------------------------------------------------------------------------
 
 Results inferred
+
 1.Average arrival delay caused by airlines
 
 2.Days of months w.r.t. arrival delays
