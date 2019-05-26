@@ -9,12 +9,15 @@ WorkFlow
 
 --------------------------------------------------------------------------------------------
 Tools Used
+
 Python-
 
 For Data Preprocessing and Visualisation
+
 HDFS-
 
 For Data Storage
+
 Hive-
 
 For Querying and Extracting needful data
