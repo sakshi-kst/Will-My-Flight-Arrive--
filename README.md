@@ -1,30 +1,22 @@
-# Will-My-Flight-Arrive-
-Coz Hive and Hadoop can't fly but can predict flight delays
+# Will My Flight Arrive?
+##Flight Delay Prediction System
 ------------------------------------------------------------
 
-WorkFlow
-
-![refs](https://raw.githubusercontent.com/RealRadOne/Will-MyFlight-Arrive--/master/to/workflow.png)
-
+## [WorkFlow](https://raw.githubusercontent.com/sakshi-kst/Will-My-Flight-Arrive--/master/workflow.PNG)
 
 --------------------------------------------------------------------------------------------
-Tools Used
 
-Python-
+## Tools Used:
 
-For Data Preprocessing and Visualisation
+Python- for Data Preprocessing and Visualisation
 
-HDFS-
+HDFS- for Data Storage
 
-For Data Storage
-
-Hive-
-
-For Querying and Extracting needful data
+Hive- for Querying and Extracting needful data
 
 -----------------------------------------------------------------------------------------------
 
-Results inferred
+## Results inferred
 
 1.Average arrival delay caused by airlines
 
@@ -43,4 +35,3 @@ Results inferred
 8.Finding airlines that make the most number of diversions
 
 9.Finding days of month that see the most number of diversion
-
