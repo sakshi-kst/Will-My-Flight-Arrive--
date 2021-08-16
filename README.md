@@ -1,10 +1,9 @@
 # Will My Flight Arrive?
-##Flight Delay Prediction System
+Flight Delay Prediction System
 ------------------------------------------------------------
 
 ## [WorkFlow](https://raw.githubusercontent.com/sakshi-kst/Will-My-Flight-Arrive--/master/workflow.PNG)
 
---------------------------------------------------------------------------------------------
 
 ## Tools Used:
 
@@ -14,7 +13,6 @@ HDFS- for Data Storage
 
 Hive- for Querying and Extracting needful data
 
------------------------------------------------------------------------------------------------
 
 ## Results inferred
 
